@@ -16,3 +16,7 @@ A production-ready Next.js 14 application containerized with Docker, demonstrati
 ### Build the Docker Image
 ```bash
 docker build -t nextjs-docker-demo .
+
+### Build the Docker Image
+```bash
+docker build -t nextjs-docker-demo .
